@@ -21,7 +21,7 @@ PAID TOOLS
 - `pip install requests`
 - `pip install mechanize`
 - `rm -rf Aking`
-- `git clone --depth=1 https://github.com/RayeesAmirNafas01/Aking.git`
+- `git clone --depth=1 [https://github.com/RayeesAmirNafas01/Aking.git](https://github.com/ARN-AKING/Aking.git)`
 - `cd Aking`
 - `python Aking.py`
 
