@@ -17,7 +17,7 @@ def Run():
             os.system("xdg-open https://chat.whatsapp.com/JSGbjD5Bcd25GvqRzgmM5M/")
             xoss("\x1b[1;92m[●] FOLLOW MY FACEBOOK ACCOUNT");time.sleep(1)
             os.system("xdg-open https://www.facebook.com/Rayees.Amir4201/")
-            import AKING64
+            import AKING64.cpython-311.so
 
         elif bit == '32bit':
             xoss("\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🙂");time.sleep(1)
