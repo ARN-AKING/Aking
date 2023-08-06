@@ -16,7 +16,7 @@ def Run():
             xoss("\x1b[1;92m[◇] JOINE MY WHATSAPP GROUP");time.sleep(1)
             os.system("xdg-open https://chat.whatsapp.com/JSGbjD5Bcd25GvqRzgmM5M/")
             xoss("\x1b[1;92m[◇] FOLLOW MY FACEBOOK ACCOUNT");time.sleep(1)
-            os.system("xdg-open https://www.facebook.com/Rayees.Amir4201/")
+            os.system("xdg-open https://www.facebook.com/Rayees.Amir4201")
             import AKING64
 
         elif bit == '32bit':
