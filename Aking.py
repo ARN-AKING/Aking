@@ -5,8 +5,6 @@ def xoss(z):
         sys.stdout.flush()
         time.sleep(0.02)
 xoss('\n\x1b[1;37m[◇] Checking Update....');time.sleep(0.5)
-def Update11():
-    xoss('\033[1;31m[◇] Commands On Update Please Wait For Update ');exit()
 def Update():
     xoss('\033[1;31m[◇] Commands On Update Please Wait For Update ');exit()
 def Run():
@@ -20,6 +18,7 @@ def Run():
             import AKING64
 
         elif bit == '32bit':
+            Update()
             xoss("\x1b[1;92m[◇] Congratulations ! Your Device Support this Tools 🙂");time.sleep(1)
             xoss("\x1b[1;92m[◇] Your Device 32 BIT 💥");time.sleep(1)
             xoss("\x1b[1;92m[◇] FOLLOW MY FACEBOOK ACCOUNT");time.sleep(1)
