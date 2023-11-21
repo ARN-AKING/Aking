@@ -1,5 +1,5 @@
 import os, platform, time, sys
-def Update11():
+def Update11(z):
     for e in z + '\n':
         sys.stdout.write(e)
         sys.stdout.flush()
