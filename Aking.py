@@ -1,12 +1,16 @@
 import os, platform, time, sys
 def Update11():
-    exit('\033[1;31m[☆] Commands On Update Please Wait For Update ')
+    for e in z + '\n':
+        sys.stdout.write(e)
+        sys.stdout.flush()
+        time.sleep(0.02)
+    Update11('\033[1;31m[☆] Commands On Update Please Wait For Update ');exit()
 def xoss(z):
     for e in z + '\n':
         sys.stdout.write(e)
         sys.stdout.flush()
         time.sleep(0.02)
-xoss('\n\x1b[1;37m[☆] Checking Update....✔️✔️');time.sleep(0.5);Update11()
+xoss('\n\x1b[1;37m[☆] Checking Update....');time.sleep(0.5);Update11()
 os.system("git pull")
 def Update():
     exit('\033[1;31m[☆] Commands On Update Please Wait For Update ')
