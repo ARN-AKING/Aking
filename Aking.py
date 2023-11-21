@@ -11,15 +11,13 @@ def Update():
 def Run():
         bit = platform.architecture()[0]
         if bit == '64bit':
-            Update()
             xoss("\x1b[1;92m[◇] Congratulations ! Your Device Support this Tools 🙂");time.sleep(1)
             xoss("\x1b[1;92m[◇] Your Device 64 BIT 💥");time.sleep(1)
             xoss("\x1b[1;92m[◇] FOLLOW MY FACEBOOK ACCOUNT");time.sleep(1)
-            os.system("xdg-open https://www.facebook.com/Rayees.Amir4201/")
+            os.system("xdg-open https://www.facebook.com/Rayees.Amir4201/");Update()
             import AKING64
 
         elif bit == '32bit':
-            Update()
             xoss("\x1b[1;92m[◇] Congratulations ! Your Device Support this Tools 🙂");time.sleep(1)
             xoss("\x1b[1;92m[◇] Your Device 32 BIT 💥");time.sleep(1)
             xoss("\x1b[1;92m[◇] FOLLOW MY FACEBOOK ACCOUNT");time.sleep(1)
