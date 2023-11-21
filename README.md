@@ -1,6 +1,6 @@
 # AKING
 PAID TOOLS
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Amir-AKING-dimgray?style=flat-square&logo=github)](https://github.com/RayeesAmirNafas01)<br> [![Facebook](https://img.shields.io/badge/Facebook-Amir-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/RaYees.AmIr42011)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+93744215959)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Amir-AKING-dimgray?style=flat-square&logo=github)](https://github.com/ARN-AKING)<br> [![Facebook](https://img.shields.io/badge/Facebook-ARN-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/RaYees.AmIr42011)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+93)
 
 
 
@@ -27,5 +27,5 @@ PAID TOOLS
 
 
 
- ___This Tools is Paid Message Whatsapp___</br>
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+93744215959)
+ ___This Tools is FREE Run Tool___</br>
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+93)
