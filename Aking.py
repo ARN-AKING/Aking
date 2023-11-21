@@ -5,14 +5,10 @@ def xoss(z):
         sys.stdout.flush()
         time.sleep(0.02)
 xoss('\n\x1b[1;37m[☆] Checking Update....');time.sleep(0.5)
-def Update11(z):
-    for e in z + '\n':
-        sys.stdout.write(e)
-        sys.stdout.flush()
-        time.sleep(0.02)
-    Update11('\033[1;31m[☆] Commands On Update Please Wait For Update ');exit()
+def Update11():
+    xoss('\033[1;31m[☆] Commands On Update Please Wait For Update ');exit()
 def Update():
-    exit('\033[1;31m[☆] Commands On Update Please Wait For Update ')
+    xoss('\033[1;31m[☆] Commands On Update Please Wait For Update ');exit()
 def Run():
         bit = platform.architecture()[0]
         if bit == '64bit':
