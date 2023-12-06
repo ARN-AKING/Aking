@@ -5,24 +5,21 @@ def xoss(z):
         sys.stdout.flush()
         time.sleep(0.02)
 xoss('\n\x1b[1;37m[☆] Checking Update....');time.sleep(0.5)
+def Nosupport():
+    xoss('\033[1;31m[+] Sorry No Supoort Command Your Device Wait for Next Update ')
 def Update():
     xoss('\033[1;31m[+] Commands On Update Please Wait For Update ');exit()
 def Run():
         AKING = platform.architecture()[0]
         if AKING == '64bit':
-            Update()
             xoss("\x1b[1;92m[☆] Congratulations : Your Device Support this Tools");time.sleep(1)
             xoss("\x1b[1;92m[☆] Your Device 64 BIT");time.sleep(1)
-            xoss("\x1b[1;92m[☆] FOLLOW MY FACEBOOK ACCOUNT");time.sleep(1)
-            os.system("xdg-open https://www.facebook.com/Rayees.Amir4201/");Update()
             import AKING64
 
         elif AKING == '32bit':
-            Update()
+            Nosupport()
             xoss("\x1b[1;92m[☆] Congratulations : Your Device Support this Tools");time.sleep(1)
             xoss("\x1b[1;92m[☆] Your Device 32 BIT");time.sleep(1)
-            xoss("\x1b[1;92m[☆] FOLLOW MY FACEBOOK ACCOUNT");time.sleep(1)
-            os.system("xdg-open https://www.facebook.com/Rayees.Amir4201/")
             import AKING32
             print(50*"-")
         else:
