@@ -14,7 +14,7 @@ def Run():
         if AKING == '64bit':
             xoss("\x1b[1;92m[☆] Congratulations : Your Device Support this Tools");time.sleep(1)
             xoss("\x1b[1;92m[☆] Your Device 64 BIT");time.sleep(1)
-            import AKINGK
+            import AKINGKA
 
         elif AKING == '32bit':
             Nosupport()
